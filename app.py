@@ -20,7 +20,7 @@ if name_c and age_c >0 :
         with col2:
             st.image(images[1], caption=name[1], use_container_width=True)
             st.write(f'Your {times[1]} is {name[1]}.')
-            st.write(f'Fortune{fortune[1]}.')
+            st.write(f'Fortune {fortune[1]}.')
         with col3:
             st.image(images[2], caption=name[2], use_container_width=True)
             st.write(f'Your {times[2]} is {name[2]}.')
