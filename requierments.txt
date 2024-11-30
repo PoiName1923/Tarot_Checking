@@ -1,0 +1,6 @@
+pyngrok
+streamlit
+pandas
+numpy
+seaborn
+opencv-contrib-python
